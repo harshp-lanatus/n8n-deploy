@@ -12,7 +12,7 @@ services:
       - key: N8N_PROTOCOL
         value: https
       - key: WEBHOOK_URL
-        value: https://n8n-workspace.onrender.com/
+        value: https://n8n-deploy-8f3x.onrender.com
       - key: GENERIC_TIMEZONE
         value: Asia/Kolkata
       - key: N8N_BASIC_AUTH_ACTIVE
