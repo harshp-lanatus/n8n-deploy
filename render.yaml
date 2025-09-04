@@ -6,9 +6,9 @@ services:
     dockerfilePath: ./Dockerfile
     envVars:
       - key: N8N_HOST
-        value: n8n-workspace.onrender.com
+        value: n8n-deploy-8f3x.onrender.com
       - key: N8N_PORT
-        value: 5678
+        value: ""
       - key: N8N_PROTOCOL
         value: https
       - key: WEBHOOK_URL
